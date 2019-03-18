@@ -1,0 +1,9 @@
+Log Loss On training Data: 0.20913983339724226
+Kaggle Profile: https://www.kaggle.com/aryansingh
+
+## Two Notebooks
+
+----> XGBoost + distance + NLP - Aryan_Singh_XGBoost.ipynb
+----> LSTM - Aryan_Singh_LSTM.ipynb
+
+## Attached screenshot for kaggle submission as well
